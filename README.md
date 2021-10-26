@@ -1,0 +1,2 @@
+# neural-network-stock-price
+PREVISÃO DO MERCADO DE AÇÕES COM BASE EM REDES NEURAIS RECORRENTES 
